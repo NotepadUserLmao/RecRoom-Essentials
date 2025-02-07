@@ -12,7 +12,7 @@ Anti-Kick Protection: Allows you to not get kicked from a game or PVP using Anti
 
 Backpack Spawner: Enables spawning backpacks using BackPack Spawner.exe. (instructions in discord)
 
-Easy to Use: The rressentialsmenuv2.bat script provides a simple way to launch the menu.
+Easy to Use: The script provides a simple way to launch the menu.
 
 ### Installation
 
