@@ -1,10 +1,10 @@
-EssentialsMenuV3
+RR Essentials
 
------ Overview
+### Overview
 
 EssentialsMenuV3 is a multi-functional utility that provides various enhancements, including custom Discord status updates, an anti-kick feature, and a backpack spawner tool.
 
------ Features
+### Features
 
 Custom Discord Status: Modify your Discord status dynamically when using the menu.
 
@@ -14,19 +14,19 @@ Backpack Spawner: Enables spawning backpacks using BackPack Spawner.exe. (instru
 
 Easy to Use: The rressentialsmenuv2.bat script provides a simple way to launch the menu.
 
------ Installation
+### Installation
 
 Download and extract the repository.
 
 Run rressentialsmenuv2.bat to launch the menu.
 
------ Requirements
+### Requirements
 
 Python (if required for status.py)
 
 Windows OS (due to .exe files)
 
------- Disclaimer
+### Disclaimer
 
 Use this tool responsibly. The developers are not responsible for any misuse or consequences resulting from its use. All info can be found at https://discord.gg/jHUFSH27TP
 
