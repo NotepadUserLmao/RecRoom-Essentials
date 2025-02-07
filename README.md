@@ -2,7 +2,7 @@ RR Essentials
 
 ### Overview
 
-EssentialsMenuV3 is a multi-functional utility that provides various enhancements, including custom Discord status updates, an anti-kick feature, and a backpack spawner tool.
+ RR Essemtials is a multi-functional utility that provides various enhancements, including custom Discord status updates, an anti-kick feature, and a backpack spawner tool.
 
 ### Features
 
