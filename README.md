@@ -18,13 +18,15 @@ Easy to Use: The script provides a simple way to launch the menu.
 
 Download and extract the repository.
 
-Run rressentialsmenuv2.bat to launch the menu.
+Run either the batch version, exe version, or the py version to launch the menu.
 
 ### Requirements
 
 Python (if required for status.py)
 
 Windows OS (due to .exe files)
+
+NoteInstaller (free on my github) (because the pips you need are autoinstalled using that, and it's faster to use that)
 
 ### Disclaimer
 
