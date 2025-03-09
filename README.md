@@ -8,7 +8,7 @@
 
 Custom Discord Status: Modify your Discord status dynamically when using the menu.
 
-Anti-Kick Protection: Allows you to not get kicked from a game or PVP using AntiKick.exe.
+Anti-Kick Protection: Allows you to not get kicked from a game or PVP using AntiKick.exe. (NOW REMOVED, PATCHED LMAO)
 
 Backpack Spawner: Enables spawning backpacks using BackPack Spawner.exe. (instructions in discord)
 
